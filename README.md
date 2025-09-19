@@ -1,16 +1,16 @@
-## Hi there 👋
+# CIS4004 Project #1 — Starter
 
-<!--
-**nwafaldabbagh/NwafAlDabbagh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This folder is a clean, semantic HTML + CSS starter for your resume site. Replace placeholders with your details.
 
-Here are some ideas to get you started:
+## Replace these placeholders
+- `YOUR NAME`, `YOUR_NID@ucf.edu`, LinkedIn URL
+- `images/profile-placeholder.svg` with your real headshot named `profile.jpg` (then update `index.html` src)
+- Project titles, descriptions, and skills in `project1.html` and `project2.html`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Pages
+- `index.html` — main resume
+- `project1.html` and `project2.html` — each with image, description, skills
+
+## CSS / Accessibility
+- Uses semantic tags and responsive layout (no frameworks)
+- Includes alt text, skip link, high‑contrast defaults

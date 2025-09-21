@@ -3,7 +3,7 @@
 This folder is a clean, semantic HTML + CSS starter for your resume site. Replace placeholders with your details.
 
 ## Replace these placeholders
-- `YOUR NAME`, `YOUR_NID@ucf.edu`, LinkedIn URL
+- `Nwaf Al Dabbagh`, `nwafaldabagh@gmail.com`, 'www.linkedin.com/in/nwaf-al-dabbagh-07bb57250'
 - `images/profile-placeholder.svg` with your real headshot named `profile.jpg` (then update `index.html` src)
 - Project titles, descriptions, and skills in `project1.html` and `project2.html`
 
